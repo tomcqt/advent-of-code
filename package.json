@@ -1,0 +1,17 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "My Languages:",
+  "homepage": "https://github.com/tomcqt/advent-of-code#readme",
+  "bugs": {
+    "url": "https://github.com/tomcqt/advent-of-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcqt/advent-of-code.git"
+  },
+  "license": "ISC",
+  "author": "tomcat",
+  "type": "module",
+  "main": "index.js"
+}
