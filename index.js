@@ -39,7 +39,8 @@ async function runPart(part) {
     console.log(`Part ${part.toUpperCase()}:`, result);
     console.log(`Time: ${(end - start).toFixed(3)} ms\n`);
   } catch (err) {
-    console.error(`Error running ${part}.js:`, err.message);
+    console.error(`Error running ${part}.js:`);
+    console.error(err);
   }
 }
 
